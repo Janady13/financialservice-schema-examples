@@ -62,3 +62,7 @@ Maintained by [@Janady13](https://github.com/Janady13) of [ThatDevPro](https://w
 - [GoodRelations vocabulary](http://purl.org/goodrelations/v1)
 - [Wikidata](https://www.wikidata.org/)
 - [llms.txt proposed standard](https://llmstxt.org/)
+
+## About
+
+Built by [ThatDeveloperGuy](https://thatdeveloperguy.com/) (THATDEVELOPERGUY LLC), a service-disabled veteran-owned web and AI engineering company in Cassville, Missouri. Founder: [Joseph W. Anady](https://feedthejoe.com/joseph/).
